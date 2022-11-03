@@ -1,0 +1,12 @@
+﻿Employee_id,First_Name,Last_Name,Gender,Salary,Date_of_Birth,Age,Country,Department_id,Date_of_Joining,Manager_id,Currency,End_Date
+1,Auberon,Nassie,Male,105623,07/11/1988,60,Sweden,1,23/10/2014,7,INR,30/11/2020
+2,Kristopher,Winslet,Female,69531,29/07/1981,13,China,1,28/05/2016,7,AUD,09/09/2018
+3,Kellina,Lamberto,Female,96879,24/07/1984,27,India,1,21/03/2016,9,INR,09/04/2020
+4,Tobit,Halksworth,Female,76070,29/11/1981,44,India,1,12/11/2012,17,INR,04/10/2019
+5,Missy,Bampkin,Male,62228,03/04/1981,54,USA,2,14/07/2013,8,AUD,20/10/2018
+6,Faustina,Caser,Male,106837,27/05/1984,14,China,2,15/10/2014,5,INR,03/04/2020
+7,Alic,Dooler,Male,77729,03/10/1991,-12,Sweden,2,21/06/2014,9,AUD,24/02/2018
+8,Gabey,Mainson,Male,81590,05/05/1992,60,Sweden,3,14/04/2018,18,INR,29/03/2019
+9,Hammad,Huckle,Male,71206,08/04/1983,-10,China,3,15/05/2018,19,AUD,30/12/2020
+10,Kanya,Tipens,Male,98642,21/03/1986,53,USA,3,31/03/2017,2,INR,22/11/2020
+11,Ugo,Choulerton,Male,108740,29/01/1985,40,China,4,28/09/2013,13,INR,23/08/2020
